@@ -28,8 +28,8 @@ dependencies = []
 
 #[project.urls]
 #Documentation = "https://github.com/minglonglam/optimalbinning#readme"
-#Issues = "https://github.com/minglonglam/optimalbinning/issues"
-#Source = "https://github.com/minglonglam/optimalbinning"
+Issues = "https://github.com/minglonglam/github.io/tree/main/optimalbinning/issues"
+Source = "https://github.com/minglonglam/github.io/tree/main/optimalbinning"
 
 [tool.hatch.version]
 path = "src/optimalbinning/__about__.py"
