@@ -26,8 +26,8 @@ classifiers = [
 ]
 dependencies = []
 
-#[project.urls]
-#Documentation = "https://github.com/minglonglam/optimalbinning#readme"
+[project.urls]
+Documentation = "https://github.com/minglonglam/github.io/tree/main/optimalbinning/README.md"
 Issues = "https://github.com/minglonglam/github.io/tree/main/optimalbinning/issues"
 Source = "https://github.com/minglonglam/github.io/tree/main/optimalbinning"
 
